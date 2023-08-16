@@ -1,1 +1,1 @@
-0x02-Session_authentication solutions
+0x02-Session_authentication task solution
